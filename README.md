@@ -59,7 +59,8 @@ From scribbles to scrambled.
 Fin.
 
 ![Psilocybe Art](magicmush.jpg "Psilocybe Art")
-<img src="/s/magicmush.jpg"; img style="height: 20px; width: 20px;">
+Psilocybe art
+    <img src="/s/magicmush.jpg"; img style="height: 20px; width: 20px;">
 
 
   
