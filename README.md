@@ -59,4 +59,10 @@ From scribbles to scrambled.
 Fin.
 
 ![Psilocybe Art](magicmush.jpg "Psilocybe Art")
-Psilocybe Art
+<style>
+  .markdown-block img {
+  width: 20px;
+   height: auto;
+  }
+  </style>
+  
