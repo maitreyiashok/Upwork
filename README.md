@@ -59,4 +59,4 @@ From scribbles to scrambled.
 Fin.
 
 ![Psilocybe Art](magicmush.jpg "Psilocybe Art")
-Psiloybe Art
+Psilocybe Art
