@@ -58,4 +58,4 @@ Just like my brain which is broken.
 From scribbles to scrambled.  
 Fin.
 
-![Psilocybe Art](/home/maitreyi/Pictures/Profile/magicmush.jpg "Psilocybe Art")
+![Psilocybe Art](/home/maitreyi/Pictures/Profile/magicmush.jpg)
