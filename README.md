@@ -59,10 +59,7 @@ From scribbles to scrambled.
 Fin.
 
 ![Psilocybe Art](magicmush.jpg "Psilocybe Art")
-<style>
-  .markdown-block img {
-  width: 20px;
-   height: auto;
-  }
-  </style>
+<img src="/s/magicmush.jpg"; img style="height: 20px; width: 20px;">
+
+
   
